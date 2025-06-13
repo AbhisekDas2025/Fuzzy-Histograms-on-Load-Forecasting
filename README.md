@@ -9,15 +9,3 @@ This repository contains the source code and research paper for a project that e
 * Comparative Analysis: Provides a full implementation and direct performance comparison between the hybrid model and a standard Bidirectional LSTM baseline.
 *Comprehensive Evaluation: Uses multiple metrics (RMSE, MAE, R², and a custom tolerance-based accuracy) to rigorously evaluate model performance.
 * Reproducibility: Includes the full Jupyter Notebook and a detailed research paper, allowing for easy replication and extension of the work.
-
-# Structure
-main
-
-├── Fuzzy Histograms on Load Forecasting.pdf
-
-├── Source Code.ipynb
-
-└── README.md
-* Fuzzy Histograms on Load Forecasting.pdf: The detailed research paper outlining the project's background, methodology, results, and conclusions.
-* Source Code.ipynb: A Jupyter Notebook containing the complete Python code for data preprocessing, model building, training, and evaluation for both the baseline and hybrid models.
-* README.md: This file.
